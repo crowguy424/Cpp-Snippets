@@ -1,6 +1,8 @@
+//Alternate way to determine even and odd numbers
 #include <iostream>
 #include <conio.h>
 using namespace std;
+//driver code
 int main(){
 	int x;
 	cout << "Insert number: ";
